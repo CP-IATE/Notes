@@ -12,7 +12,7 @@ This project implements a real-time WebSocket chat using **FastAPI**. Users can 
 2. Install the required dependencies:
 
    ```bash
-   pip install fastapi
+   pip install -r requirements.txt
 
 ## Run the application
 
