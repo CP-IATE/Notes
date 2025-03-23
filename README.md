@@ -19,6 +19,6 @@ This project implements a real-time WebSocket chat using **FastAPI**. Users can 
 1. To start the FastAPI server:
   
   ```bash
-  fastapi dev main.py
+  fastapi dev app/main.py
 
  
