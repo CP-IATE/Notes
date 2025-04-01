@@ -1,4 +1,2 @@
-/.idea
-__pycache__/main.cpython-310.pyc
-/app/__pycache__
-/app/static_loader/__pycache__
+__pycache__/
+.idea/
