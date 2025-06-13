@@ -1,3 +1,0 @@
-# Requires Python >= 3.6
-
-fastapi==0.115.8
