@@ -1,0 +1,4 @@
+websockets==10.4
+pymongo==4.2.0
+cryptography==38.0.1
+python-dotenv==0.21.0
