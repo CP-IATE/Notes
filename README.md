@@ -24,7 +24,7 @@
 ### Кроки встановлення
 1. Клонуйте репозиторій:
    ```bash
-   git clone https://github.com/Wall-E-09/Notes.git
+   git clone https://github.com/CP-IATE/Notes.git
    cd Notes
    ```
 2. Встановіть залежності Python:
